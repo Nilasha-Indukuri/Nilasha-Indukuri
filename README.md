@@ -1,44 +1,31 @@
-# Nilasha Varma
-<h1 align="center">Hi 👋, I'm Nilasha Varma</h1>
-<h3 align="center">Always learning, always building 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Nilasha Indukuri</h1>
+<h3 align="center">Turning data into insights | Software Developer | Data Science Enthusiast</h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nilasha-Indukuri&label=Profile%20views&color=ff69b4&style=flat" alt="Nilasha-Indukuri" />
+</p>
 
 ---
 
-- 🌱 I’m currently learning **Cloud Computing | DevOps | AI Integration**
-- 💬 Ask me about **Data Engineering | Data Science | Hadoop| Snowflake| Full-Stack Development | AWS | Node.js | React | PostgreSQL**
-- 📫 Reach me at **nilasha.indukuri@gmail.com**
-- ⚡ Fun fact: I love hiking, tech, and building side-projects 💻🏋️‍♂️
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **Data Engineering | Machine Learning | Cloud Computing**
+- 💬 Ask me about **Python, Data Science, SQL, and Web Development**
+- 📫 Reach me at **nilashaindukuri@gmail.com**
+- ⚡ Fun fact: I love exploring how AI can simplify human creativity 🎨  
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="mailto🥈nilasha.indukuri@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/Nilashavarma"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-   
+  <a href="mailto:nilashaindukuri@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/nilashaindukuri"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://github.com/Nilasha-Indukuri"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
 ---
 
-### ⚙️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  
-</p>
-
-
-### 🧠 Data Science:
+### 🧠 Data Science Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
@@ -51,9 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45"/>
 </p>
 
+---
 
-
-### ⚙️ Data Engineering:
+### ⚙️ Data Engineering Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
@@ -67,6 +54,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
 
+---
 
-### 🧠 Quote
-> "Code tells you how, data tells you why" — Nilasha Varma
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilasha-Indukuri&show_icons=true&theme=radical&count_private=true" alt="Nilasha-Indukuri's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilasha-Indukuri&theme=radical" alt="Nilasha-Indukuri's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilasha-Indukuri&layout=compact&theme=radical" alt="Nilasha-Indukuri's top languages" />
+</p>
+
+---
+
+### 💬 Quote
+> “Data is the new oil, but insight is the new currency.”  
+> — Nilasha Indukuri
